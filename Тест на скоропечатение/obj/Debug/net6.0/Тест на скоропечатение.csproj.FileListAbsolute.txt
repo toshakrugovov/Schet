@@ -1,0 +1,17 @@
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\bin\Debug\net6.0\Тест на скоропечатение.exe
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\bin\Debug\net6.0\Тест на скоропечатение.deps.json
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\bin\Debug\net6.0\Тест на скоропечатение.runtimeconfig.json
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\bin\Debug\net6.0\Тест на скоропечатение.dll
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\bin\Debug\net6.0\Тест на скоропечатение.pdb
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.AssemblyInfo.cs
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.dll
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\refint\Тест на скоропечатение.dll
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.pdb
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.genruntimeconfig.cache
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\ref\Тест на скоропечатение.dll
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Практос 8\Тест на скоропечатение\Тест на скоропечатение\obj\Debug\net6.0\Тест на скоропечатение.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXQR7p4bH3F7VVCDwr2Wl2vAxfyOPzwuyC2KxA38HZRmn04WTOHtZ5BCKY3S7YqfYHXdHQLc4tSZKXFwpaONsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Практос 8\\Тест на скоропечатение\\Тест на скоропечатение\\Тест на скоропечатение.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
